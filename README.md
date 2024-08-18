@@ -1,5 +1,18 @@
-# Medical-clinic-database
-A Medical database with PostgreSQL built from a database schema diagram.
+### Medical Clinic Database 🏥
+
+A robust database system for managing medical clinic operations, built with PostgreSQL based on a detailed database schema diagram. This database handles various aspects of clinic management, including patient records, appointments, and medical staff information.
+
+### Features:
+- **Patient Records:** Manage patient information, medical history, and contact details.
+- **Appointments:** Track and schedule patient appointments with medical staff.
+- **Medical Staff:** Maintain records of doctors, nurses, and other staff members.
+- **Database Schema:** Designed according to a comprehensive schema diagram for efficient data organization and retrieval.
+
+### Built With:
+- PostgreSQL
+- Database schema diagram
+
+---
 
 ![](./clinic_diagram.png)
 
